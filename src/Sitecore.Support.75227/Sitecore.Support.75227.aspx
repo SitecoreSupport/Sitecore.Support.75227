@@ -82,7 +82,7 @@
     <div>
         Forms root item:<asp:TextBox ID="tbItem" Text="/sitecore/system/Modules/Web Forms for Marketers/" Width="400" runat="server" /><br />
         <asp:Button ID="btn_Update" runat="server" OnClick="btn_Update_Click" Text="Update" /><br />
-        Resul: <br /><asp:Label runat="server" ID="result"></asp:Label>
+        Result: <br /><asp:Label runat="server" ID="result"></asp:Label>
     </div>
 </form>
 </body>
