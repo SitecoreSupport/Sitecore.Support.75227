@@ -66,7 +66,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zzz\Sitecore.Support.75227.config" />
-    <Content Include="Sitecore.Support.75227 %281%29.aspx" />
     <Content Include="Sitecore.Support.75227.aspx" />
   </ItemGroup>
   <ItemGroup>
